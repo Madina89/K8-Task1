@@ -3,5 +3,5 @@
 ## Busybox Task1
 
 
-![](Busybox Task1.jpeg)
+![](image/Busybox_Task1.jpeg)
 
